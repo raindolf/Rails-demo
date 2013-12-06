@@ -7,3 +7,5 @@ class WelcomeControllerTest < ActionController::TestCase
   end
 
 end
+
+end§
